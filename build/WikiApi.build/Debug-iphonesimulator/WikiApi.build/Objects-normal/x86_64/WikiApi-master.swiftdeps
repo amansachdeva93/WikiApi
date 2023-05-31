@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "682fbae8e5d276803a3cc4247a0a31798765ab766ab3334d3c5960b61f58497b"
+build_start_time: [1685539874, 400614976]
+build_end_time: [1685539875, 522089958]
+inputs:
+  "/Users/amanpreetsingh/Documents/Xcode Projects/WikiApi/WikiApi/AppDelegate.swift": [1685532191, 691671371]
+  "/Users/amanpreetsingh/Documents/Xcode Projects/WikiApi/WikiApi/Model/WikiModel.swift": [1685533326, 137374877]
+  "/Users/amanpreetsingh/Documents/Xcode Projects/WikiApi/WikiApi/SceneDelegate.swift": [1685532191, 697418212]
+  "/Users/amanpreetsingh/Documents/Xcode Projects/WikiApi/WikiApi/View/MainViewController.swift": [1685539873, 872869014]
+  "/Users/amanpreetsingh/Documents/Xcode Projects/WikiApi/WikiApi/View/NoteCell.swift": [1685539873, 848960876]
+  "/Users/amanpreetsingh/Documents/Xcode Projects/WikiApi/WikiApi/ViewModel/HomeViewModel.swift": [1685533784, 216099023]
